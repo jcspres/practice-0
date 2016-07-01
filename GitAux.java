@@ -1,12 +1,9 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package prgitejemplo;
 
 /**
  *
- * @author bertoa
+ * @creator: jcspres
+ * @colaborador: io-space
  */
 public class GitAux {
     
