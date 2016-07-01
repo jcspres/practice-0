@@ -1,12 +1,9 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package prgitejemplo;
 
 /**
  *
- * @author alumno: <escribe tu nombre aqui>
+ * @author alumno: jcspres
+ * new colaborador: io-space
  */
 public class GitEjemploMain {
 
