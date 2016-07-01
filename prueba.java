@@ -1,5 +1,1 @@
-public class prueba {
-	public void main (String args[]) {
-		System.out.println("Aqui escribimos todos.");
-	}
-}
+/* Este file era incorrecto. El alumno 2 lo ha borrado */
